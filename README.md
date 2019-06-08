@@ -13,9 +13,8 @@ This assignment has the following two tasks.
 5. All stop words are removed. 
 
 ### Similarity Measure
-1. Since the model needs to be resistent to typos, words are considered to be the same if they are 90% similar. 
-2. The TF-IDF index is built. 
-3. The cosine similarity is calculated. 
+1. The TF-IDF index is built. 
+2. The cosine similarity is calculated. 
 
 ### Clustering Algorithm
 
